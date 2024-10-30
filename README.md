@@ -30,20 +30,37 @@ I aim to include more algorithms and concepts as I learn them, gradually expandi
 
 ## Updates
 
-- **Completed Linear Regression**
-  - Implemented Linear Regression model from scratch.
+- **Linear Regression**
+  - Implemented a Linear Regression model from scratch.
   - Documented the mathematical derivation, including:
-    - Cost function
-    - Gradient descent algorithm
-    - Cross Validation(5 types)
-    - Regularization Techniques:
-        - Ridge Regression
-        - Lasso Regression
-        - ElasticNet Regression
-    - **Projects Completed:**
-      - 1 project using Simple Linear Regression.
-      - 2 projects using Multiple Regression.
-      - 2 projects using Polynomial Regression.
+    - Cost Function
+    - Gradient Descent Algorithm
+    - Cross-Validation (5 types)
+  - Regularization Techniques:
+    - Ridge Regression
+    - Lasso Regression
+    - ElasticNet Regression
+  - **Projects Completed:**
+    - 1 project using Simple Linear Regression
+    - 2 projects using Multiple Regression
+    - 2 projects using Polynomial Regression
+
+        
+- **Logistic Regression**
+  - Implemented a Logistic Regression model from scratch.
+  - Documented the mathematical derivations, including:
+    - Sigmoid Activation Function
+    - Cost Function
+    - Performance Metrics
+    - One-vs-Rest (OVR) Strategy
+  - Hyperparameter Tuning:
+    - GridSearch CV
+    - RandomizedSearch CV
+  - Logistic Regression on Imbalanced Datasets.
+  - **Projects Completed:**
+    - Coronary Heart Disease Prediction (next 10 years)
+    - Titanic Survival Prediction
+
       
   (Will be uploading the notes soon)
 
