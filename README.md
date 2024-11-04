@@ -41,9 +41,14 @@ I aim to include more algorithms and concepts as I learn them, gradually expandi
     - Lasso Regression
     - ElasticNet Regression
   - **Projects Completed:**
-    - 1 project using Simple Linear Regression
-    - 2 projects using Multiple Regression
-    - 2 projects using Polynomial Regression
+    - Simple Linear Regression:
+      - Salary Prediction based on Years of Experience
+    - Multiple Regression:
+      - Car Price Prediction
+      - Life Expectancy WHO
+    - Polynomial Regression:
+      - Diamond Price Prediction
+      - Custom Data Polynomial Regression
 
         
 - **Logistic Regression**
@@ -58,9 +63,26 @@ I aim to include more algorithms and concepts as I learn them, gradually expandi
     - RandomizedSearch CV
   - Logistic Regression on Imbalanced Datasets.
   - **Projects Completed:**
-    - Coronary Heart Disease Prediction (next 10 years)
+    - Coronary Heart Disease Prediction (next 10 Years)
     - Titanic Survival Prediction
-
+   
+      
+- **Support Vector Machine**
+  - Implemented SVM Model for:
+    - Support Vector Classifier(SVC)
+    - Support Vector Regressor(SVR)
+  - Documented the mathematical intuition, including:
+    - Marginal Lines/Planes
+      - Soft Margin
+      - Hard Margin
+    - Cost Function
+  - Kernels:
+    - Polynomial Kernels
+    - RBF Kernels
+    - Sigmoid Kernels
+  - **Projects Completed:**
+    - Human Activity Recognition using Smartphones
+    - Insurance Claims Prediction
       
   (Will be uploading the notes soon)
 
