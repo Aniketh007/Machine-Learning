@@ -83,6 +83,18 @@ I aim to include more algorithms and concepts as I learn them, gradually expandi
   - **Projects Completed:**
     - Human Activity Recognition using Smartphones
     - Insurance Claims Prediction
+
+- **Naive Bayes**
+  - Implemented Naive Bayes model from scratch.
+  - Documented the mathematical derivatives, including:
+    - Probability
+    - Baye's Theorem
+    - Variants of Naive Bayes:
+      - Bernoulli Naive Bayes
+      - Multinomial Naive Bayes
+      - Gaussian Naive Bayes
+    - **Projects Completed**:
+      - Breast Cancer Diagnosis
       
   (Will be uploading the notes soon)
 
