@@ -93,8 +93,8 @@ I aim to include more algorithms and concepts as I learn them, gradually expandi
       - Bernoulli Naive Bayes
       - Multinomial Naive Bayes
       - Gaussian Naive Bayes
-    - **Projects Completed**:
-      - Breast Cancer Diagnosis
+  - **Projects Completed**:
+    - Breast Cancer Diagnosis
       
   (Will be uploading the notes soon)
 
