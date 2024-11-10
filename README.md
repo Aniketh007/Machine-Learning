@@ -95,7 +95,7 @@ I aim to include more algorithms and concepts as I learn them, gradually expandi
       - Gaussian Naive Bayes
   - **Projects Completed**:
     - Breast Cancer Diagnosis
-- **K Nearest Neighbour
+- **K Nearest Neighbour**
   - Implemented KNN from scratch.
   - Documented the mathematical derivations, including:
     - Hyperparameter tuning for optimal K value
