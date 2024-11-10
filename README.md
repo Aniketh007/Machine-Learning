@@ -71,7 +71,7 @@ I aim to include more algorithms and concepts as I learn them, gradually expandi
   - Implemented SVM Model for:
     - Support Vector Classifier(SVC)
     - Support Vector Regressor(SVR)
-  - Documented the mathematical intuition, including:
+  - Documented the mathematical derivations, including:
     - Marginal Lines/Planes
       - Soft Margin
       - Hard Margin
@@ -86,7 +86,7 @@ I aim to include more algorithms and concepts as I learn them, gradually expandi
 
 - **Naive Bayes**
   - Implemented Naive Bayes model from scratch.
-  - Documented the mathematical derivatives, including:
+  - Documented the mathematical derivations, including:
     - Probability
     - Baye's Theorem
     - Variants of Naive Bayes:
@@ -95,6 +95,19 @@ I aim to include more algorithms and concepts as I learn them, gradually expandi
       - Gaussian Naive Bayes
   - **Projects Completed**:
     - Breast Cancer Diagnosis
+- **K Nearest Neighbour
+  - Implemented KNN from scratch.
+  - Documented the mathematical derivations, including:
+    - Hyperparameter tuning for optimal K value
+    - Distance formulas to calculate K nearest neighbour:
+      - Euclidean Distance
+      - Manhattan Distance
+    - Time complexity analysis of KNN (O(N))
+    - Optimization of Time Complexity:
+      - KD Tree
+      - Ball Tree
+  - **Project Completed:**:
+    - Cancer Prediction
       
   (Will be uploading the notes soon)
 
