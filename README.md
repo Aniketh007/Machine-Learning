@@ -108,8 +108,20 @@ I aim to include more algorithms and concepts as I learn them, gradually expandi
       - Ball Tree
   - **Project Completed:**:
     - Cancer Prediction
+- **Decision Tree**
+  - Implemented Decision Tree from scratch.
+  - Documented the mathematical derivations, including:
+    - Calculation of Information Gain using Entropy.
+    - Gini Index for node splitting.
+    - Handling categorical and continuous data during tree construction.
+    - Pruning techniques:
+      - Pre-pruning.
+      - Post-pruning to avoid overfitting.
+    - Time Complexity Analysis (O(N * log N)).
+  - **Project Completed**:  
+    - Breast Cancer Prediction.
       
-  (Will be uploading the notes soon)
+(Will be uploading the notes soon)
 
 
 Stay tuned for updates!
