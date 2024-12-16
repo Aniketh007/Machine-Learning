@@ -120,6 +120,23 @@ I aim to include more algorithms and concepts as I learn them, gradually expandi
     - Time Complexity Analysis (O(N * log N)).
   - **Project Completed**:  
     - Breast Cancer Prediction.
+- **Random Forest**
+  - Implemented Random Forest from scratch.
+  - Documented the mathematical derivations, including:
+    - Bagging technique for creating multiple decision trees with bootstrapped samples.
+    - Random feature selection for splitting nodes to reduce correlation between trees.
+    - Aggregation of predictions using majority voting for classification.
+    - Hyperparameter tuning:
+      - Number of trees (`n_trees`).
+      - Maximum depth of trees (`max_depth`).
+      - Minimum samples required for splits (`min_splits`).
+      - Number of features considered for splits (`n_features`).
+    - Time Complexity Analysis (O(M * N * log N)):
+      - `M` = Number of trees.
+      - `N` = Number of samples.
+  - **Project Completed**:  
+    - Bank Loan Default Prediction.
+
       
 (Will be uploading the notes soon)
 
