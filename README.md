@@ -136,6 +136,27 @@ I aim to include more algorithms and concepts as I learn them, gradually expandi
       - `N` = Number of samples.
   - **Project Completed**:  
     - Bank Loan Default Prediction.
+- **K Means**
+  - Implemented K Means from Scratch.
+  - Documented the mathematical derivations, including:
+    - Steps on how to perform K Means Clustering
+    - How to Select the best K Value- WCSS(Within Cluster Sum of Square)
+    - Elbow Point Method
+    - Random Initialization Trap- K++
+    - Hyperparameter Tuning:
+      - Number of Clusters (`K`)
+      - Maximum Iterations (`max_iters`)
+    - Silhouette Score for Measuring the Cluster Quality:
+      - +1: Well Separated Clusters
+      - 0: Overlapping Clusters
+      - -1: Data points are assigned to wrong clusters
+    - Time Complexity Analysis (`O(I.K.n.d)`), where:
+      - I- Maximum Iterations
+      - K- K clusters
+      - n- Data points
+      - d- Feature dimension
+  - **Project Completed**:
+    - Customer Segmentation Based on Spending Patterns
 
       
 (Will be uploading the notes soon)
